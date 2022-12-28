@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FootballPlayer>
+    <Player>
+        <Age>23</Age>
+        <Number>32</Number>
+        <Position>vratar</Position>
+        <Salary>34319</Salary>
+    </Player>
+</FootballPlayer>
